@@ -1,0 +1,37 @@
+teslatheg0d Live [ Live 029 ] [ Reading_Blogs_Writeups ] [ Hindi ]
+
+https://www.youtube.com/watch?v=uDiWMwXmwRM
+
+
+-----------------------------------------------------------------------------------------------------------
+
+https://blog.viettelcybersecurity.com/authentication-bypass-in-goanywhere-admin-portal/#1-spot-the-bug
+
+use /a/../ to bypass
+Header Faces-Request: partial/ajax to not render all components (which only much later that I know this is a JSF framework header) and only get the state ID
+security-config.xml jsf framework ( give url patterns and stuff ) 
+
+
+-----------------------------------------------------------------------------------------------------------
+
+https://medium.com/@mukundbhuva/account-takeover-due-to-cognito-misconfiguration-earns-me-xxxx-3a7b8bb9a619 
+
+AWS Cognito 
+Create and play with case-insensitive 
+didn't worked 
+but when created with refresh token it worked 
+
+-----------------------------------------------------------------------------------------------------------
+
+https://www.sonarsource.com/blog/front-end-frameworks-when-bypassing-built-in-sanitization-might-backfire/
+
+CSPT Client Side Path Traversal -> XSS 
+Raising error message on purpose to trigger XSS. 
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
+
+
+
